@@ -25,7 +25,7 @@ $(".toggel").on("click",function(){
 
 
 window.onload = function(){
-    countDownToTime("25 october 2024 9:56:00");
+    countDownToTime("25 october 2025 9:56:00");
 }
 function countDownToTime(countTo){
     let futureDate = new Date(countTo);
